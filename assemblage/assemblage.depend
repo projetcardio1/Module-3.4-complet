@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1542269751 source:c:\users\rodri\onedrive\documents\programme projet\assemblage\action.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1542268722 source:c:\users\rodri\onedrive\documents\programme projet\assemblage\donnes.c
+	<stdlib.h>
+	<stdio.h>
+	"menu.h"
+
+1542269751 c:\users\rodri\onedrive\documents\programme projet\assemblage\menu.h
+
+1542268722 source:c:\users\rodri\onedrive\documents\programme projet\assemblage\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+
+1542203861 c:\users\rodri\onedrive\documents\programme projet\assemblage\donnees.h
+
+1542271704 source:c:\users\rodri\onedrive\documents\programme projet\assemblage\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"action.h"
+
+1542269751 c:\users\rodri\onedrive\documents\programme projet\assemblage\action.h
+
